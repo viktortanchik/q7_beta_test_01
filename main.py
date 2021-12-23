@@ -12,10 +12,6 @@ import sqlite3
 from db import *
 import asyncio
 from create_chat_02 import create_chat,find_user
-#from create_chat.create_01 import create_chat
-#from create_chat import create_01
-#2141799369:AAEhbbxAsNFkfeLs6kU4WYuz4i0O5iCzIyE
-#bot = Bot(token="2141799369:AAEhbbxAsNFkfeLs6kU4WYuz4i0O5iCzIyE")
 
 bot = Bot(token="5049839636:AAGU4R4Ibn-qwonYWMBfFWHfU0xM6LubqFA")
 dp = Dispatcher(bot)
